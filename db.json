@@ -1,0 +1,11 @@
+{
+  "title": "JUALE.COM",
+  "description": "e-commerece",
+  "product": [
+    { "id": "1", "barang": "Sendal", "harga": "Rp.25.000" },
+    { "id": "2", "barang": "Baju", "harga": "Rp.75.000" },
+    { "id": "3", "barang": "Celanan", "harga": "Rp.125.000" },
+    { "id": "4", "barang": "Jaket", "harga": "Rp.525.000" },
+    { "id": "5", "barang": "Sepatu", "harga": "Rp.325.000" }
+  ]
+}
